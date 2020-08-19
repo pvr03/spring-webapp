@@ -19,8 +19,8 @@ public class AppTest
 {
 
 	public HtmlUnitDriver driver;
-	public String HOME_URL = "http://3.93.190.172:8080/webapptest/home";
-	public String PRODUCTS_URL = "http://3.93.190.172:8080/webapptest/products";
+	public String HOME_URL = "hhttp://34.204.95.156:8080/webapptest/home";
+	public String PRODUCTS_URL = "http://34.204.95.156:8080/webapptest/products";
 	
 	@Test
 	public void test1() {
